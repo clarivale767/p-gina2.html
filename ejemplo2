@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Pagina2</title>
+</head>
+<body>
+<h1>Mi segunda página</h1>
+<p>otro párrafo</p>
+<a href="Página 1.html">
+Ir a otra pagina </a>
+</body>
+</html>
